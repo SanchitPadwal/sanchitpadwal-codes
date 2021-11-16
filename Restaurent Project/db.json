@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 7,
+      "name": "Apple",
+      "email": "Apple@gmail.com",
+      "mobile": "7057602900",
+      "address": "Upala",
+      "services": "veg"
+    },
+    {
+      "id": 8,
+      "name": "foodtown",
+      "email": "food@gmail.com",
+      "mobile": "8830044898",
+      "address": "Akshay nagar ",
+      "services": "All"
+    },
+    {
+      "id": 9,
+      "name": "food mall",
+      "email": "fm@gmail.com",
+      "mobile": "9420200022",
+      "address": "Dharashiv",
+      "services": "veg , non-veg"
+    }
+  ],
+  "signup": [
+    {
+      "name": "sanchit",
+      "email": "sanchit@gmail.com",
+      "mobile": "7057602900",
+      "password": "sanchit95",
+      "id": 1
+    },
+    {
+      "name": "Virat",
+      "email": "virat@gmail.com",
+      "mobile": "8830044898",
+      "password": "virat95",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
