@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstName": "sanchit",
+      "lastName": "padwal",
+      "email": "srp@gmail.com",
+      "mobile": "7057602900",
+      "fees": "30000"
+    },
+    {
+      "id": 3,
+      "firstName": "virat",
+      "lastName": "padwal",
+      "email": "virat@gmail.com",
+      "mobile": "920200022",
+      "fees": "20000"
+    },
+    {
+      "id": 4,
+      "firstName": "rohit",
+      "lastName": "padwal",
+      "email": "rohit@gmail.com",
+      "mobile": "921361509",
+      "fees": "50000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
